@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Hem Mahimkar 
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning C, C++ , Kotlin ,React
-- 💞️ I’m looking to collaborate on App development
-- 📫 How to reach me - Msg me on linkedin profile @ https://www.linkedin.com/in/hem-mahimkar-307903202/
+- 🌱 I’m currently learning  C++ , Kotlin ,React
+
 
 <!---
 Ironteen23/Ironteen23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
