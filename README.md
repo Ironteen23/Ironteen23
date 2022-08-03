@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hem Mahimkar 
-- 🌱 I’m currently learning  C++ , Kotlin ,React
+- 🌱 I’m currently working with C++ , Kotlin ,React, Nextjs , Electronjs
 
 
 <!---
