@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hem Mahimkar 
-- 🌱 I’m currently working with C++ , Kotlin ,React, Nextjs , Electronjs
+- 🌱 I’m currently working with MERN Stack , TypeScript , NextJs , SpringBoot .
 
 
 <!---
